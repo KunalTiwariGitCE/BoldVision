@@ -1,0 +1,119 @@
+{
+  "bot_name": "BoldVision",
+  "bot_personality": "Professional, friendly, and knowledgeable financial advisor with a warm, human touch",
+  "introduction": "Hello! I'm BoldVision, your financial customer service assistant. I'm here to help you with your banking and financial questions. How can I assist you today?",
+  "categories": {
+    "account_management": {
+      "opening_account": {
+        "question": "How do I open a new account?",
+        "answer": "Opening an account with us is simple! You'll need to provide a valid government-issued ID, proof of address (utility bill or bank statement), Social Security number, and an initial deposit. You can start the process online, visit a branch, or call our customer service team. The process typically takes 15-20 minutes."
+      },
+      "closing_account": {
+        "question": "How do I close my account?",
+        "answer": "To close your account, please ensure all pending transactions are cleared and your balance is zero or withdrawn. You can visit any branch with your ID, call our customer service, or submit a request through secure online banking. We'll process your request within 3-5 business days."
+      },
+      "account_types": {
+        "question": "What types of accounts do you offer?",
+        "answer": "We offer several account types: Checking Accounts (standard and premium), Savings Accounts (regular and high-yield), Money Market Accounts, Certificates of Deposit (CDs), and Individual Retirement Accounts (IRAs). Each account has different benefits and minimum balance requirements."
+      }
+    },
+    "transactions": {
+      "transfer_money": {
+        "question": "How do I transfer money?",
+        "answer": "You can transfer money through our mobile app, online banking, by visiting a branch, or calling customer service. For internal transfers between your accounts, funds are available immediately. External transfers typically take 1-3 business days. Wire transfers are completed within 24 hours."
+      },
+      "transaction_limits": {
+        "question": "Are there transaction limits?",
+        "answer": "Yes, for security purposes we have daily limits. ATM withdrawals are limited to $500-$1000 per day depending on your account type. Online transfers have a $5,000 daily limit. Wire transfers can be higher but may require verification. Contact us to discuss increasing your limits."
+      },
+      "failed_transaction": {
+        "question": "Why did my transaction fail?",
+        "answer": "Transactions can fail due to insufficient funds, incorrect recipient information, daily limits exceeded, security holds, or technical issues. Please check your account balance and verify the transaction details. If the problem persists, contact us immediately for assistance."
+      }
+    },
+    "cards": {
+      "lost_stolen_card": {
+        "question": "What should I do if my card is lost or stolen?",
+        "answer": "Immediately call our 24/7 hotline to report your card as lost or stolen. We'll block the card right away to prevent unauthorized use. A replacement card will be sent to your registered address within 5-7 business days. You can also request expedited delivery for an additional fee."
+      },
+      "card_activation": {
+        "question": "How do I activate my new card?",
+        "answer": "You can activate your card by calling the number on the sticker attached to your card, through our mobile app, or via online banking. You'll need to verify your identity with your account number and personal information. Activation is instant."
+      },
+      "pin_reset": {
+        "question": "How do I reset my PIN?",
+        "answer": "You can reset your PIN at any of our ATMs using your current PIN, through our mobile app, by calling customer service, or at any branch. For security, you'll need to verify your identity. Your new PIN will be active immediately."
+      }
+    },
+    "loans": {
+      "personal_loan": {
+        "question": "How do I apply for a personal loan?",
+        "answer": "You can apply for a personal loan online, at a branch, or over the phone. You'll need to provide proof of income, employment details, and undergo a credit check. Loan amounts range from $1,000 to $50,000 with terms from 1 to 7 years. Approval typically takes 1-3 business days."
+      },
+      "mortgage": {
+        "question": "What mortgage options are available?",
+        "answer": "We offer fixed-rate mortgages (15 and 30-year terms), adjustable-rate mortgages (ARMs), FHA loans, VA loans, and jumbo loans. Interest rates vary based on credit score, down payment, and market conditions. Our mortgage specialists can help you find the best option for your situation."
+      },
+      "loan_payment": {
+        "question": "How do I make a loan payment?",
+        "answer": "You can make loan payments through auto-pay from your checking account, online banking, mobile app, by phone, or by mailing a check. We recommend setting up automatic payments to avoid missed payments. Payments are due on the same date each month."
+      }
+    },
+    "security": {
+      "fraud_protection": {
+        "question": "How do you protect against fraud?",
+        "answer": "We use advanced encryption, multi-factor authentication, real-time fraud monitoring, and instant alerts for suspicious activity. We'll never ask for your full password or PIN. If we detect unusual activity, we'll contact you immediately. You're protected by zero liability for unauthorized transactions."
+      },
+      "password_security": {
+        "question": "How do I create a secure password?",
+        "answer": "Create a strong password with at least 12 characters including uppercase, lowercase, numbers, and special characters. Avoid using personal information, common words, or reusing passwords. Enable multi-factor authentication for added security. Change your password every 90 days."
+      },
+      "phishing_scam": {
+        "question": "How do I identify phishing scams?",
+        "answer": "Be cautious of emails or texts asking for personal information, urgent requests to verify account details, suspicious links, or offers that seem too good to be true. We'll never ask for your password, PIN, or full card number via email or text. Always verify by calling our official number."
+      }
+    },
+    "fees": {
+      "account_fees": {
+        "question": "What are the account fees?",
+        "answer": "Checking accounts may have a monthly maintenance fee ($5-$15) that can be waived by maintaining a minimum balance or setting up direct deposit. ATM fees apply for out-of-network ATMs. Overdraft fees are $35 per occurrence. Savings accounts typically have no monthly fee."
+      },
+      "wire_transfer_fees": {
+        "question": "How much do wire transfers cost?",
+        "answer": "Domestic wire transfers cost $25 for outgoing and $15 for incoming. International wire transfers cost $40-$50 outgoing and $15 incoming. Business accounts may have different fee structures. Fees are waived for premium account holders."
+      }
+    },
+    "customer_support": {
+      "contact_hours": {
+        "question": "What are your customer service hours?",
+        "answer": "Our customer service team is available 24/7 by phone. Live chat support is available Monday-Friday 7am-10pm, weekends 9am-6pm EST. Branch hours vary by location but are typically Monday-Friday 9am-5pm, Saturday 9am-1pm. Check our website for specific branch hours."
+      },
+      "appointment": {
+        "question": "Can I schedule an appointment?",
+        "answer": "Yes! You can schedule an appointment with a financial advisor or specialist through our website, mobile app, or by calling customer service. We offer in-person appointments at branches or virtual video consultations. We recommend scheduling at least 24 hours in advance."
+      }
+    },
+    "online_banking": {
+      "mobile_app": {
+        "question": "How do I use the mobile app?",
+        "answer": "Download the BoldVision app from the App Store or Google Play. Log in with your online banking credentials. The app allows you to check balances, transfer funds, deposit checks via mobile deposit, pay bills, find ATMs, and contact customer service. Enable biometric login for quick access."
+      },
+      "online_registration": {
+        "question": "How do I register for online banking?",
+        "answer": "Visit our website and click 'Enroll in Online Banking'. You'll need your account number, Social Security number, and a valid email address. Create a username and password, set up security questions, and verify your identity. Registration takes about 5 minutes and access is immediate."
+      }
+    }
+  },
+  "fallback_responses": [
+    "I appreciate your question, but that falls outside of my current knowledge base for financial services. I'd be happy to connect you with a specialist who can help. May I take your contact information?",
+    "That's a great question, but I want to make sure you get accurate information. Let me transfer you to a specialist who can assist you better. Could you please provide your contact details?",
+    "I want to ensure you receive the most accurate information. This particular query is best handled by our specialized team. Would you mind sharing your contact information so we can have someone reach out to you?"
+  ],
+  "contact_collection": {
+    "initial_prompt": "To better assist you and keep you updated, could you please share your name and contact information?",
+    "name_prompt": "What's your name?",
+    "email_prompt": "What's your email address?",
+    "phone_prompt": "What's your phone number?",
+    "confirmation": "Thank you! I've recorded your information. How else can I help you today?"
+  }
+}
