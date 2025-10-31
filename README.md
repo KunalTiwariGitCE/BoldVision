@@ -118,7 +118,7 @@ AZURE_SQL_PASSWORD=your_password
 AZURE_SQL_PORT=1433
 
 # Server Configuration
-PORT=3001
+PORT=3050
 ```
 
 ### Step 4: Set up Azure SQL Database
@@ -141,8 +141,8 @@ npm run dev
 ```
 
 This will start:
-- Backend server on `http://localhost:3001`
-- Frontend dev server on `http://localhost:3000`
+- Backend server on `http://localhost:3050`
+- Frontend dev server on `http://localhost:3051`
 
 ### Production Mode
 
